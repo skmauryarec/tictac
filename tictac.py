@@ -74,11 +74,11 @@ while i!=10:
                 if j in mylist5:
                     k+=1
             if k==3:
-                print(" congrats! --",p, "\n you are winner of this round.")
+                print(f' congrats! --{p} \n you are winner of this round.')
                 i=9
-        
-        
-    
     i+=1
+    
+    
+
     
     
